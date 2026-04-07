@@ -7,28 +7,29 @@ In today’s data-driven job market, understanding the variables that dictate co
 
 The project follows a structured development lifecycle, moving from business requirements  to data modeling and finally to interactive visualization.
 
-# Key Dashboards & Features:
-- 1. Salary Overview (High-Level Summary)
-  KPIs at a Glance: Tracks $145.7K Avg Salary and a 33.2% Remote Work rate.
+# Key Dashboards & Features
 
-- Demographic Analysis: Visualizes salary distribution by Experience Bucket (showing a clear scaling from $121.5K for entry-level to $160.6K for 10+ years) and Education Level (peaking at $164K for PhD holders).
+-  1. Salary Overview (High-Level Summary)
+   KPIs at a Glance: Tracks $145.7K Avg Salary and a 33.2% Remote Work rate.
 
-- Company Dynamics: A donut chart breakdown showing that Enterprise companies offer the highest average salaries ($169.6K).
+-  Demographic Analysis: Visualizes salary distribution by Experience Bucket (showing a clear scaling from $121.5K for entry-level to $160.6K for 10+ years) and Education Level (peaking at     $164K for PhD holders).
 
-- 2. Salary Drivers Analysis
-  Skills & Certifications: Identifies how technical depth impacts pay. Salaries scale up to $153K as the count of skills increases.
+-  Company Dynamics: A donut chart breakdown showing that Enterprise companies offer the highest average salaries ($169.6K).
+
+-  2. Salary Drivers Analysis
+   Skills & Certifications: Identifies how technical depth impacts pay. Salaries scale up to $153K as the count of skills increases.
 
 -  Industry Treemap: A granular view of compensation across sectors like Technology ($145.9K) and Education ($146K).
 
-- 3. Job Role Analysis
-- Top Earners: Highlights AI Engineers ($173K) and Machine Learning Engineers ($163K) as the highest-paying roles in the current dataset.
+-  3. Job Role Analysis
+-  Top Earners: Highlights AI Engineers ($173K) and Machine Learning Engineers ($163K) as the highest-paying roles in the current dataset.
 
-- Experience Correlation: A detailed matrix showing how specific roles, such as Product Managers, see significant jumps as they move into the 10+ year experience bracket ($171.92K).
+-  Experience Correlation: A detailed matrix showing how specific roles, such as Product Managers, see significant jumps as they move into the 10+ year experience bracket ($171.92K).
 
-- 4. Remote Work Analysis
-  Salary Parity: Compares compensation across Remote ($154K), Onsite ($149K), and Hybrid ($149K) models.
+-  4. Remote Work Analysis
+   Salary Parity: Compares compensation across Remote ($154K), Onsite ($149K), and Hybrid ($149K) models.
 
-- Industry Adoption: Tracks which sectors, led by Finance and Consulting, are leading the charge in remote job volume.
+-  Industry Adoption: Tracks which sectors, led by Finance and Consulting, are leading the charge in remote job volume.
 
 # Technical Stack & Skills
 - Tool: Power BI Desktop
