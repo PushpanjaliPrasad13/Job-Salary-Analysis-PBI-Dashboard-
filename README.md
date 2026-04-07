@@ -7,7 +7,7 @@ In today’s data-driven job market, understanding the variables that dictate co
 
 The project follows a structured development lifecycle, moving from business requirements  to data modeling and finally to interactive visualization.
 
-# Key Dashboards & Features
+# Key Dashboards & Features:
 - 1. Salary Overview (High-Level Summary)
   KPIs at a Glance: Tracks $145.7K Avg Salary and a 33.2% Remote Work rate.
 
